@@ -5,7 +5,7 @@ from pathlib import Path
 from datetime import datetime
 
 class SaveToFile:
-    def __init__(self, filename: str = "conversation_history.json"):
+    def __init__(self, filename: str = "/content/ai_system/conversation_history.json"):
         self.filename = filename
 
     def save(self, conversation: List[Dict]) -> None:
