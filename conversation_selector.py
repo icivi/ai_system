@@ -1,4 +1,4 @@
 # @title conversation_selector.py
-# lfxxxx
+# lf
 class ConversationSelector:
     pass
