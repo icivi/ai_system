@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-<System Instructions text> да 455
-=======
-<System Instructions text> да 4444
->>>>>>> jun_branch
+<System Instructions text> да 11
